@@ -8,4 +8,4 @@ text (mail topic or your message)
 
 I will post the mailapi documentation link below.
 
-link: http://vusalrehimov.000webhostapp.com/upload/mailapi-docs.yaml
+link: https://vusalrehimov.000webhostapp.com/upload/mailapi-docs.yaml
