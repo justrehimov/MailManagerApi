@@ -9,3 +9,5 @@ text (mail topic or your message)
 I will post the mailapi documentation link below.
 
 link: https://vusalrehimov.000webhostapp.com/upload/mailapi-docs.yaml
+
+Also API link: https://spring-mailapi.heroku.app
